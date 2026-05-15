@@ -1,8 +1,8 @@
-# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-# ┃                     THOMSON.LEO.THOMAS                  ┃
-# ┃                  builder.config.yaml                    ┃
-# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=builder.config.yaml;Loading+builder+profile...;Ideas+detected.;Turning+them+into+reality..." alt="Typing Animation" />
+</p>
 
+```yaml
 name: Thomson Leo Thomas
 role: Builder
 
