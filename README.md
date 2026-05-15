@@ -12,12 +12,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00F7FF&logo=github&logoColor=black" alt="Followers" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 name: Thomson Leo Thomas
