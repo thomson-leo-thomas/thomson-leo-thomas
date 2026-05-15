@@ -1,3 +1,7 @@
+# ╔════════════════════════════════════════════════════════════╗
+# ║                     THOMSON.LEO.THOMAS                    ║
+# ╚════════════════════════════════════════════════════════════╝
+
 name: Thomson Leo Thomas
 role: Builder
 
@@ -13,6 +17,7 @@ interests:
   - Wild Ideas
   - Smart Systems
   - Product Building
+  - Startups
   - Tech That Actually Helps
 
 favorite_question: "Why doesn't this exist yet?"
