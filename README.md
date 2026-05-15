@@ -3,39 +3,37 @@
 <!-- ======================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=THOMSON+LEO+THOMAS;Turning+What+If+Into+Reality;Building+Technology+That+Matters" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=THOMSON+LEO+THOMAS;Why+doesn't+this+exist+yet%3F;Okay...+let's+build+it." alt="Typing SVG" />
 </p>
 
 <h3 align="center">
-  I build products at the intersection of AI, IoT, and automation.
+  I build things that make people say, “Wait... this is actually awesome.”
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF" alt="Profile Views" />
-</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
 ```yaml
 name: Thomson Leo Thomas
 role: Builder
 
 philosophy: >
-  I’m drawn to ideas that seem too ambitious to work.
-  The challenge is not imagining the future, but engineering it
-  until it becomes real, useful, and impossible to ignore.
+  I get excited by ideas that make people say, "That would be awesome."
+  Then I keep building until that idea stops being imaginary.
 
-status: Turning bold questions into working systems.
-signature: "Some people predict the future. I prototype it."
+status: Probably building something I can't stop thinking about.
+signature: "Why doesn't this exist yet? Okay, let's build it."
 
 interests:
   - Artificial Intelligence
-  - Systems Thinking
-  - Embedded Intelligence
-  - Product Design
-  - Startup Architecture
-  - Technology for Human Impact
+  - Wild Ideas
+  - Smart Systems
+  - Product Building
+  - Startups
+  - Tech That Actually Helps
 
-favorite_question: "What if the impossible is just waiting to be built?"
+favorite_question: "Why doesn't this exist yet?"
+
+cool_fact: >
+  I turn random shower thoughts into working prototypes.
