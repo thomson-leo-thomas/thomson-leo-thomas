@@ -18,7 +18,6 @@ interests:
   - Wild Ideas
   - Smart Systems
   - Product Building
-  - Startups
   - Tech That Actually Helps
 
 favorite_question: "Why doesn't this exist yet?"
