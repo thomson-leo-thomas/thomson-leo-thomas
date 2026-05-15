@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Thomson Leo Thomas
