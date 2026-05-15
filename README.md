@@ -1,51 +1,37 @@
-<!-- ========================================= -->
-<!--        ⚡ THOMSON LEO THOMAS ⚡            -->
-<!-- ========================================= -->
+<!-- ======================================== -->
+<!--           THOMSON LEO THOMAS             -->
+<!-- ======================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=THOMSON+LEO+THOMAS;TURNING+WHAT+IF+INTO+WHAT+IS;BUILDING+THE+FUTURE;IDEAS+THAT+REFUSE+TO+STAY+IMAGINARY" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=THOMSON+LEO+THOMAS;Turning+What+If+Into+Reality;Building+Technology+That+Matters" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
-  ⚡ Turning imagination into systems that make a real impact ⚡
+  I build products at the intersection of AI, IoT, and automation.
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00F7FF&logo=github&logoColor=black" />
-</p>
 
 ---
 
-# 🌌 // WHO_AM_I
+## 👨‍💻 About Me
 
 ```yaml
 name: Thomson Leo Thomas
-role: Founder • Builder • Systems Thinker
+role: Builder
 
 philosophy: >
-  Every breakthrough begins as a thought that sounds too ambitious.
-  I chase those ideas, wrestle them into reality, and keep building
-  until imagination becomes something people can use.
+  I’m drawn to ideas that seem too ambitious to work.
+  The challenge is not imagining the future, but engineering it
+  until it becomes real, useful, and impossible to ignore.
 
-mission: >
-  Design technology that doesn't just impress people—
-  it protects them, teaches them, and improves lives.
+status: Turning bold questions into working systems.
+signature: "Some people predict the future. I prototype it."
 
-beliefs:
-  - The future is built, not predicted.
-  - Curiosity is the starting point of every innovation.
-  - Great products begin with bold questions.
-  - Impact is the ultimate measure of technology.
-
-obsession:
+interests:
   - Artificial Intelligence
-  - Internet of Things
-  - Automation
-  - Startup Innovation
+  - Systems Thinking
+  - Embedded Intelligence
+  - Product Design
+  - Startup Architecture
+  - Technology for Human Impact
 
-current_status: Translating "What if?" into working systems.
-
-favorite_question: "What if this idea could genuinely help millions?"
-
-signature_line: "Ideas are cheap. Building is the superpower."
+favorite_question: "What if the impossible is just waiting to be built?"
